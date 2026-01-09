@@ -5,3 +5,6 @@
 [submodule "ecotrends"]
 	path = ecotrends
 	url = https://github.com/ambarbosa/ecotrends
+[submodule "fuzzySim"]
+	path = fuzzySim
+	url = https://github.com/ambarbosa/fuzzysim
