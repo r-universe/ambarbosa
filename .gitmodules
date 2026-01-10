@@ -8,3 +8,6 @@
 [submodule "fuzzySim"]
 	path = fuzzySim
 	url = https://github.com/ambarbosa/fuzzysim
+[submodule "modEvA"]
+	path = modEvA
+	url = https://github.com/ambarbosa/modeva
